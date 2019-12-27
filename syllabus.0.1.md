@@ -63,7 +63,6 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 ##### Recommended:
 * Fred Turner, ch. 7, "Therapeutic Nationalism," from _The Democratic Surround_
 * Eric Schuldenfrei, _The Films of Charles and Ray Eames_
-* 
 
 #### Week 6, Feb. 10 & 12: Feedback and Capture
 ##### Monday: Naval-gazing with Buddha
