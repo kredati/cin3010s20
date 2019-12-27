@@ -133,6 +133,8 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 * Cohen on Charles Gaines, and on Leo Steinberg (unpublished manuscripts)
 * Fred Moten, "The Blur and Breathe Books," from _Black and Blur_
 * Donna Haraway, "A Cyborg Manifesto"
+##### Recommended:
+* Tara McPherson, "U.S. Operating Systems at Mid-Century"
 
 #### Week 11, Mar. 23 & 25: The Cybernetic Body
 ##### Monday: TBD
