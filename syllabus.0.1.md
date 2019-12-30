@@ -2,11 +2,16 @@
 # Aesthetics and Technics in the Cybernetic Age
 
 ### Logistics
-Instructor: Scott Richmond, Associate Professor of Cinema & Digital Media, Cinema Studies<br />
-Office hours: Tuesdays, 1–4pm, and by appointment. Note that students must sign up for office hours slots at least 24-hours in advance using the following link: https://calendly.com/s-richmond/officehours. Graduate students are entitled to 40 minutes of my time by booking two back-to-back slots; please do so unless you are certain you will only need 20 minutes.<br />
-Office: Innis 230E<br />
-Contact: by email at s.richmond@utoronto.ca, or by Slack DM.
-Course Slack team (not yet live): https://cin3010s20.slack.com
+**Instructor:** Scott Richmond, Associate Professor of Cinema & Digital Media, Cinema Studies
+
+**Office hours:** Tuesdays, 1–4pm, and by appointment. <br />
+Note that students must sign up for office hours slots at least 24-hours in advance using the following link: https://calendly.com/s-richmond/officehours. Graduate students are entitled to 40 minutes of my time by booking two back-to-back slots; please do so unless you are certain you will only need 20 minutes. If you cannot make my regular hours, contact me to arrange an appointment at a mutually convenient time.
+
+**Office:** Innis 230E
+
+**Contact:** by email at s.richmond@utoronto.ca, or by Slack DM.
+
+**Course Slack team** (not yet live): https://cin3010s20.slack.com
 
 ### Description
 Cybernetics arose in the post-WWII moment in the US as a meta-discipline, a general theory of systems, which could be used to model just about any phenomenon in the world (or the universe). The cybernetic project, on its own terms, aimed to allow scholars and planners to understand their domains at ever higher level of abstraction, safely ignoring the specific details. In the domain of artistic practice, systems thinking showed up in a variety of art practices that elaborated the operations of systems as their primary aesthetic medium. Artists like John Cage would seek in aleatory, iterative, and generative operations a refuge from art as expression. In this, and also in other terms, systems thinking offered an alternative to the canonically modernist concern with medium specificity. In short, art made under the influence of cybernetics may have been abstract, but it was not expressionist. This course offers an investigation of the ways cybernetics and systems thinking organized, both explicitly and implicitly, the engagements between art, aesthetics, technology, and the body in the experimental media practices in the forty years or so after WWII.
@@ -50,9 +55,9 @@ In addition, students may wish to get their hands on copies of the following boo
 
 Each week, the reading is due on the day under which it appears. I have endeavoured to edit as much as I can to keep the material manageable(ish). I have failed in this endeavour some weeks. (This process is ongoing; as of right now, this is a document still in process.)
 
-Readings will either be made available with direct links to library resources or by PDF on our course Slack team.
+Readings will either be made available with direct links to library resources or by PDF on our course Slack team. Readings will be made available at least a week before the meeting in which they are due; but if I make a mistake and miss uploading something, or if you have technical issues with a reading, please let me know ASAP so I can rectify the situation.
 
-I have, in each week, compiled extensive "recommended" readings. These recommended readings are not necessarily all in the same category. Some are additional resources on similar topics, as resources to deeper research. Some are helpful background reading for students who do not have preparation in some aspect of the course. These may or may not be made available by Scott, but if you have difficulty finding anything that's listed here, contact Scott, and he'll help.
+I have, in each week, compiled extensive "recommended" readings. These recommended readings are not necessarily all in the same category. Some are additional resources on similar topics, as resources to deeper research. Some are helpful background reading for students who do not have preparation in some aspect of the course. Some are theoretical developments or grace notes. These may or may not be made available by Scott here or on the course Slack, but if you have difficulty finding anything that's listed here, contact him, and he'll help.
 
 ### Schedule
 #### Week 1, Jan. 6 & 8: Introduction, and Modernism against System
@@ -174,6 +179,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Recommended:
 * P. Adams Sitney, "Structural Film," from _Visionary Film_
 * Damon Young, _Making Sex Public_, especially "Sex in Public: Through the Window from _Psycho_ to _Shortbus_"
+* Eve Sedgwick and Adam Frank, "Shame in the Cybernetic Fold"
 
 #### Week 9, Mar. 9 & 11: Cinema, the Desiring System
 ##### Monday: The New York queer underground
@@ -235,3 +241,16 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### To be scheduled during exam period: Stand-up consultations for final projects in process. (These are voluntary, but very highly encouraged.)
 
 #### May 1: Final papers due by 11:59pm.
+
+### Course policies
+#### Addressing Scott
+Scott prefers you call him Scott. If you must inscribe your hierarchical relation, he prefers Professor Richmond. He will deliver a dad joke (well, a gay uncle joke) by calling you "Student" if you call him "Professor."
+
+#### Late work
+Late work is accepted only by negotiation at least 48 hours in advance of a deadline, or with documentation of significant hardship.
+
+#### Academic misconduct and plagiarism
+School of Graduate Studies policies on academic misconduct and plagiarism are in full effect. These can be found at https://www.sgs.utoronto.ca/policies-guidelines/academic-integrity-resources/. This is deadly serious stuff for graduate students; I am a deep stickler for academic integrity. If you have questions or even hesitations about what is permissible, please ask early and often. Also, if it comes down to giving me something plagiarized or flub a deadline, flub the deadline (the late work policy above notwithstanding).
+
+#### Contact
+I cannot guarantee a response in a particular window of time; I will do my best to respond within two business days of emails and Slack DMs. That said, especially if it's a time sensitive matter, I encourage you to send a follow-up email if I haven't gotten back to you within a week. I will _thank_ you for the reminder; it is not remotely an imposition.
