@@ -12,7 +12,7 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 * N. Katherine Hayles, "Cybernetics," from _Critical Terms for Media Studies_
 ##### Wednesday:
 * Lewis Mumford, "Art and the Symbol," from _Art and Technics_
-* Clement Greenberg, "American-Type Painting"
+* Clement Greenberg, "The Crisis of the Easel Picture" and "American-Type Painting"
 * Michael Fried, "Art and Objecthood"
 * Pamela Lee, "Part 1: Presentness is Grace," from _Chronophobia_
 ##### Recommended
