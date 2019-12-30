@@ -1,10 +1,58 @@
 ### CIN3010 S20
 # Aesthetics and Technics in the Cybernetic Age
 
+### Logistics
+Instructor: Scott Richmond, Associate Professor of Cinema & Digital Media, Cinema Studies<br />
+Office hours: Tuesdays, 1–4pm, and by appointment. Note that students must sign up for office hours slots at least 24-hours in advance using the following link: https://calendly.com/s-richmond/officehours. Graduate students are entitled to 40 minutes of my time by booking two back-to-back slots; please do so unless you are certain you will only need 20 minutes.<br />
+Office: Innis 230E<br />
+Contact: by email at s.richmond@utoronto.ca, or by Slack DM.
+Course Slack team (not yet live): https://cin3010s20.slack.com
+
 ### Description
 Cybernetics arose in the post-WWII moment in the US as a meta-discipline, a general theory of systems, which could be used to model just about any phenomenon in the world (or the universe). The cybernetic project, on its own terms, aimed to allow scholars and planners to understand their domains at ever higher level of abstraction, safely ignoring the specific details. In the domain of artistic practice, systems thinking showed up in a variety of art practices that elaborated the operations of systems as their primary aesthetic medium. Artists like John Cage would seek in aleatory, iterative, and generative operations a refuge from art as expression. In this, and also in other terms, systems thinking offered an alternative to the canonically modernist concern with medium specificity. In short, art made under the influence of cybernetics may have been abstract, but it was not expressionist. This course offers an investigation of the ways cybernetics and systems thinking organized, both explicitly and implicitly, the engagements between art, aesthetics, technology, and the body in the experimental media practices in the forty years or so after WWII.
 
-Put otherwise, this course offers a conceptual and historical approach to the relationship between aesthetics and technology in the long midcentury moment, organized by the opposing poles of cybernetic systems thinking and modernist concerns with medium specificity. The heart of the course will be a series of sustained engagements with experimental media art practices in a variety of media—primarily, but not only, cinema, video, and computation. We will consider work by artists such as John Cage, Tony Conrad, Andy Warhol, Barbara Rubin, Nam June Paik, Yoko Ono, Alvin Lucier, Hans Haacke, Bruce Nauman, and others. The goal will be to put the work into conversation with a developing body of thought across the midcentury on the ways media technology intervenes in, modulates, and elaborates aesthetics in an expanded sense. Primary theoretical texts may include work by Norbert Weiner, Gregory Bateson, Maurice Merleau-Ponty, Gilbert Simondon, Stanley Cavell, Gene Youngblood, Seymour Papert, Annette Michelson, and Rosalind Krauss. Finally, our historian guides will include thinkers such as Katherine Hayles, Branden Joseph, Pamela Lee, Justus Nieland, Mark Hansen, Tung Hui-Hu and others. Students will pursue original research projects, culminating in a seminar paper.
+Put otherwise, this course offers a conceptual and historical approach to the relationship between aesthetics and technology in the long midcentury moment, organized by the opposing poles of cybernetic systems thinking and modernist concerns with medium specificity. The heart of the course will be a series of sustained engagements with experimental media art practices in a variety of media—primarily, but not only, cinema, art, and computation. We will consider work by artists such as John Cage, Tony Conrad, Andy Warhol, Barbara Rubin, Nam June Paik, Alvin Lucier, Hans Haacke, Bruce Nauman, and others. The goal will be to put the work into conversation with a developing body of thought across the midcentury on the ways media technology intervenes in, modulates, and elaborates aesthetics in an expanded sense. Primary theoretical texts may include work by Norbert Weiner, Maurice Merleau-Ponty, Gilbert Simondon, Seymour Papert, and others. Finally, our historian guides will include thinkers such as Katherine Hayles, Branden Joseph, Pamela Lee, Justus Nieland, Mark Hansen, Tung Hui-Hu and others. Students will pursue original research projects, culminating in a seminar paper.
+
+### How this Course is Taught
+This course is massively interdisciplinary: it crosses film studies, art history, the history of science and technology (and computation in particular), critical (or literary) theory, psychoanalysis, phenomenological philosophy, and other discourses besides. It is both carefully historicist, conceptually ambitious, and theoretically speculative. There is absolutely no possibility of mastery for any of us here, including Scott. The design philosophy of this course is contextual richness. Because of that, this course will feel like drinking from the firehose. Part of the pedagogy of the term will be to model ways of managing the overwhelm of truly interdisciplinary research.
+
+The sole objective of the course is to create a community, a discourse, and a set of skills in relation to which students will pursue substantial original research projects about the relationship between art and technology in "The Cybernetic Age," very broadly understood.
+
+#### Our meetings
+Our **Monday** sessions will be dedicate to "Encounters." This does not only mean screening. In most instances, especially when there are not screenings, I will bring in a bunch of material to consult during what I'm thinking of as "research playtime." This will be semi-structured, where I'll show some works that we should all attend to, and we will discuss them closely. After, I will turn you loose with a bunch of books.
+
+Our **Wednesday** sessions will be ordinary seminars, where we discuss readings. The format will be fairly rigid; it is specified in a separate document. 
+
+Students are expected to come to every class meeting, and be eager and generous participants in all class meetings.
+
+#### Coursework
+In addition to participation, students will write approximately 6k–7k words. For **PhD students**, this must be a seminar paper that represents substanial original research. For **MA students in academic programs**, this may be a seminar paper, or it may be a portfolio of connected or unconnected shorter pieces of writing that, taken together, comprise 6k–7k words and represent some of important modes of scholarly discourse: historical contextualization of a work, close critical reading, theoretical or conceptual explication. In addition, **MA students in creative programs** have the additional option of making a piece of new creative work in a medium of your choice, animated by a relation to the course material, accompanied by a creator's statement of approximately 2k words that specifies the ways it is related to course material. MA students must commit to an option not later than March 9.
+
+All work will be turned in to all the members of the seminar, by uploading that work to the course Slack.
+
+Final projects are due not later than **11:59pm on May 1, 2020**.
+
+Whatever your chosen format, you are expected to maintain an ongoing conversation with Scott about your project and your process over the course of the term, including into and through exam period.
+
+#### Marks and marking
+Students will be evaluated according to class participation, serving as guides and scribes, and the final paper, according to the following weight:
+* _Class participation_: 20% of final mark. This will be a heuristic and holistic assessment of class participation, including quantity and quality of contributions, presence (both physical and intellectual). Students will receive mid-semester participation feedback.
+* _Guide and scribe_: 10% of final mark total, 5% each. Once during the semester, each student will be required to serive as a guide or a scribe. Guides ask questions that will drive our discussion; scribes take minutes. Each of these is pass/fail (100 or 0).
+* _Final paper/project_: 70% of final mark. The seminar paper (or equivalent, for MA students) is the primary evaluated deliverable. For MA students pursuing the portfolio option, on a voluntary basis, I will offer feedback on one of these shorter papers (length to be negotiated with Scott, but absolutely not longer than 2k words) on a rolling basis during the term, with a normal response time of two weeks.
+
+### Course materials
+Because Scott was a disorganized mess leading up to this term, he didn't order books in time. There will be one required book, Branden Joseph's _Beyond the Dream Syndicate_. Scott will coordinate a bulk order from MIT Press shortly after the semester starts; we may be eligible for a bulk discount.
+
+In addition, students may wish to get their hands on copies of the following books: 
+* Fred Turner, _The Democratic Surround_
+* Hannah Higgings, ed., _Mainframe Experimentalism_
+* Justus Nieland, _Happiness by Design_ (forthcoming in March from the University of Minnesota Press)
+
+Each week, the reading is due on the day under which it appears. I have endeavoured to edit as much as I can to keep the material manageable(ish). I have failed in this endeavour some weeks. (This process is ongoing; as of right now, this is a document still in process.)
+
+Readings will either be made available with direct links to library resources or by PDF on our course Slack team.
+
+I have, in each week, compiled extensive "recommended" readings. These recommended readings are not necessarily all in the same category. Some are additional resources on similar topics, as resources to deeper research. Some are helpful background reading for students who do not have preparation in some aspect of the course. These may or may not be made available by Scott, but if you have difficulty finding anything that's listed here, contact Scott, and he'll help.
 
 ### Schedule
 #### Week 1, Jan. 6 & 8: Introduction, and Modernism against System
@@ -83,6 +131,7 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 * Marshall McLuhan and Quentin Fiore, _The Medium is the Massage_
 ##### Wednesday:
 * Marshall McLuhan, selections TBD from _Understanding Media_ <!-- Part 1, and some selections from part 2, including "Number" -->
+* Gene Youngblood, selections TBD from _Expanded Cinema_
 * Nam June Paik, on McLuhan and Wiener
 * Fred Turner, ch. 8, "The Coming of the Counterculture," from _The Democratic Surround_
 * Branden Joseph, ch. 3, "The Tower and the Line," from _Beyond the Dream Syndicate_
@@ -90,6 +139,7 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 * Edward A. Shanken, "In Forming _Software_: Software, Structuralism, Dematerialization," in _Mainframe Experimentalism_
 * William Kaizen, "Computer Participator: Situating Nam June Paik's Work in Computing," in _Mainframe Experimentalism_
 * David Joselit, _Feedback: Television Against Democracy_
+* Gene Youngblood, the balance of _Expanded Cinema_
 
 #### No class the week of Jan. 17: Reading week.
 
@@ -173,8 +223,8 @@ Put otherwise, this course offers a conceptual and historical approach to the re
 * Jonathan Beller, _The Message is Murder_
 
 #### Week 12, Mar. 30 & Apr. 1: The Cybernetic Body
-##### Monday: TBD
-* One or more of Hansen's examples
+##### Monday: Bodies & machines
+* Bruce Nauman, _Lip Synch_ <!-- and other examples from Hansen -->
 ##### Wednesday:
 * Maurice Merleau-Ponty, Preface and "The Synthesis of One's Own Body," in _Phenomenology of Perception_ (NB: If reading from your own books, please use the Landes, not the Smith, translation.)
 * Maurice Merleau-Ponty, "The Intertwining—The Chiasm," from _The Visible and the Invisible_
