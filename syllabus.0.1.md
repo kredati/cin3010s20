@@ -218,7 +218,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Gridworks by Charles Gaines
 * _Black Gooey Universe_ by American Artist
 ##### Wednesday:
-* A visit (in-person if possible) from Kris Cohen
+* A visit from Kris Cohen!
 * Cohen on Charles Gaines, and on Leo Steinberg (unpublished manuscripts)
 * Cohen interview with American Artist in _Open-Set_
 * Fred Moten, "The Blur and Breathe Books," from _Black and Blur_
