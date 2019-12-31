@@ -72,7 +72,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Pamela Lee, "Part 1: Presentness is Grace," from _Chronophobia_
 ##### Recommended
 * N. Katherine Hayles, _How We Became Posthuman_
-* Stanley Cavell, "Aesthetic Problems of Modern Philosophy," "Music Discomposed," and "A Matter of Meaning It," in _Must We Mean What We Say?
+* Stanley Cavell, "Aesthetic Problems of Modern Philosophy," "Music Discomposed," and "A Matter of Meaning It," in _Must We Mean What We Say?_
 * Stanley Cavell, _The World Viewed_
 * Scott Richmond, "The Unfinished Business of Modernism: _Anémic Cinéma_," in _Cinema's Bodily Illusions_
 * Caroline Jones, _Eyesight Alone_
@@ -140,7 +140,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Marshall McLuhan and Quentin Fiore, _The Medium is the Massage_
 ##### Wednesday:
 * Marshall McLuhan, selections TBD from _Understanding Media_ <!-- Part 1, and some selections from part 2, including "Number" -->
-* Gene Youngblood, selections TBD from _Expanded Cinema_
+* Gene Youngblood, selections TBD from _Expanded Cinema_ <!-- make these selections -->
 * Nam June Paik, on McLuhan and Wiener
 * Fred Turner, ch. 8, "The Coming of the Counterculture," from _The Democratic Surround_
 * Branden Joseph, ch. 3, "The Tower and the Line," from _Beyond the Dream Syndicate_
@@ -184,6 +184,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * P. Adams Sitney, "Structural Film," from _Visionary Film_
 * Damon Young, _Making Sex Public_, especially "Sex in Public: Through the Window from _Psycho_ to _Shortbus_"
 * Eve Sedgwick and Adam Frank, "Shame in the Cybernetic Fold"
+* Paul Preciado, _Testo Junkie_
 
 #### Week 9, Mar. 9 & 11: Cinema, the Desiring System
 ##### Monday: The New York queer underground
