@@ -250,16 +250,16 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 
 ### Course policies
 #### Addressing Scott
-Scott prefers you call him Scott. If you must inscribe your hierarchical relation, he prefers Professor Richmond. He will deliver a dad joke (well, a gay uncle joke) by calling you "Student" if you call him "Professor."
+I prefer that you call me Scott. If you must inscribe our hierarchical relation, I prefer Professor Richmond. I will deliver a dad joke (well, a gay uncle joke) by calling you "Student" if you call me "Professor."
 
 #### Late work
-Late work is accepted only by negotiation at least 48 hours in advance of a deadline, or with documentation of significant hardship.
+Late work is accepted only by negotiation at least 48 hours in advance of a deadline, or with documentation of significant hardship. If you think you may flub a deadline, please contact me early and often.
 
 #### Academic misconduct and plagiarism
-School of Graduate Studies policies on academic misconduct and plagiarism are in full effect. These can be found at https://www.sgs.utoronto.ca/policies-guidelines/academic-integrity-resources/. This is deadly serious stuff for graduate students; I am a deep stickler for academic integrity. If you have questions or even hesitations about what is permissible, please ask early and often. Also, if it comes down to giving me something plagiarized or flub a deadline, flub the deadline (the late work policy above notwithstanding).
+School of Graduate Studies policies on academic misconduct and plagiarism are in full effect. These can be found at https://www.sgs.utoronto.ca/policies-guidelines/academic-integrity-resources/. This is deadly serious stuff for graduate students; I am a deep stickler for academic integrity. If you have questions or even hesitations about what is permissible, please ask early and often. Also, if it comes down to giving me something plagiarized or flubbing a deadline, flub the deadline (the late work policy above notwithstanding).
 
 #### Contact
-I cannot guarantee a response in a particular window of time; I will do my best to respond within two business days of emails and Slack DMs. That said, especially if it's a time sensitive matter, I encourage you to send a follow-up email if I haven't gotten back to you within a week. I will _thank_ you for the reminder; it is not remotely an imposition.
+I cannot guarantee a response to email or Slack DMs in a particular window of time; I will do my best to respond within two business days. That said, especially if it's a time sensitive matter, I encourage you to send a follow-up email if I haven't gotten back to you within a week (or less, if the time-sensitive matter is getting ripe). I will _thank_ you for this sort of reminder; it is not remotely an imposition.
 
 #### Accessibility
 I aim for universal accessibility in my course design, but this is not always possbile. If you have any concerns about accessibility issues (documented or undocumented, of whatever kind), please confer with me early and often about them. We will work together collaboratively to address your concerns.
