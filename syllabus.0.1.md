@@ -169,6 +169,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Wendy Hui-Kyong Chun, "The Persistence of Visual Knowledge"
 * Alexander R. Galloway, "Langauge Wants to be Overlooked"
 * Alexander R. Galloway, _The Interface Effect_
+* Jacob Gaboury, "The Random-Access Image" and "Becoming NULL"
 
 #### Week 8, Mar. 2 & 4: Andy Warhol, Cybernetician
 ##### Monday: A Very Warhol Encounter
