@@ -97,11 +97,13 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Research & writing seminar, content TBD.
 ##### Wednesday:
 * Philip Mirowski, chs. 1 & 2 from _Machine Dreams_
-* Paul Edwards, selections from _The Closed World_ <!-- make these selections -->
+* Gilles Deleuze, "Postscript on the Societies of Control"
+* Seb Franklin, Introduction and chs. 1 & 2 from _Control: Digitality as Cultural Logic_
 * Peter Galison, "The Ontology of the Enemy"
-
 ##### Recommended:
+* Peter Galison, "War against the Center"
 * Scott Selisker, _Human Programming_
+* Paul Edwards, _The Closed World_
 
 #### Week 4, Jan. 27 & 29: The Aesthetics of Systems
 ##### Monday: A listening party
