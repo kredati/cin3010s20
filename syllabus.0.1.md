@@ -4,6 +4,8 @@
 ### Logistics
 **Instructor:** Scott Richmond, Associate Professor of Cinema & Digital Media, Cinema Studies
 
+**Meetings:** Mondays and Wednesdays, 6–8pm, in Innis 223E.
+
 **Office hours:** Tuesdays, 1–4pm, and by appointment. <br />
 Note that students must sign up for office hours slots at least 24-hours in advance using the following link: https://calendly.com/s-richmond/officehours. Graduate students are entitled to 40 minutes of my time by booking two back-to-back slots; please do so unless you are certain you will only need 20 minutes. If you cannot make my regular hours, contact me to arrange an appointment at a mutually convenient time.
 
