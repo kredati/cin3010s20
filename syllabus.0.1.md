@@ -256,3 +256,6 @@ School of Graduate Studies policies on academic misconduct and plagiarism are in
 
 #### Contact
 I cannot guarantee a response in a particular window of time; I will do my best to respond within two business days of emails and Slack DMs. That said, especially if it's a time sensitive matter, I encourage you to send a follow-up email if I haven't gotten back to you within a week. I will _thank_ you for the reminder; it is not remotely an imposition.
+
+#### Accessibility
+I aim for universal accessibility in my course design, but this is not always possbile. If you have any concerns about accessibility issues (documented or undocumented, of whatever kind), please confer with me early and often about them. We will work together collaboratively to address your concerns.
