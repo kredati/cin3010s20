@@ -26,7 +26,7 @@ This course is massively interdisciplinary: it crosses film studies, art history
 The sole objective of the course is to create a community, a discourse, and a set of skills in relation to which students will pursue substantial original research projects about the relationship between art and technology in "The Cybernetic Age," very broadly understood.
 
 #### Our meetings
-Our **Monday** sessions will be dedicate to "Encounters." This does not only mean screening. In most instances, especially when there are not screenings, I will bring in a bunch of material to consult during what I'm thinking of as "research playtime." This will be semi-structured, where I'll show some works that we should all attend to, and we will discuss them closely. After, I will turn you loose with a bunch of books.
+Our **Monday** sessions will be dedicated to "Encounters." This does not only mean screening. In most instances, especially when there are not screenings, I will bring in a bunch of material to consult during what I'm thinking of as "research playtime." This will be semi-structured, where I'll show some works that we should all attend to, and we will discuss them closely. After, I will turn you loose with a bunch of books.
 
 Our **Wednesday** sessions will be ordinary seminars, where we discuss readings. The format will be fairly rigid; it is specified in a separate document. 
 
@@ -117,7 +117,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Robert Moog, "An Introduction to _North American Time Capsule 1967_," in _Mainframe Experimentalism_
 * Alvin Lucier, "_North American Time Capsule 1967_," in _Mainframe Experimentalism_
 ##### Recommended:
-* Branden Joseph, "_HSPCHD_—Ghost or Monster?"
+* Branden Joseph, "_HSPCHD_—Ghost or Monster?," in _Mainframe Experimentalism_
 * The balance of Hannah Higgins, ed., _Mainframe Experimentalism_ (although essays from this are recommended throughout)
 
 #### Week 5, Feb. 3 & 5: Democracy and Design
@@ -147,10 +147,10 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Recommended:
 * Edward A. Shanken, "In Forming _Software_: Software, Structuralism, Dematerialization," in _Mainframe Experimentalism_
 * William Kaizen, "Computer Participator: Situating Nam June Paik's Work in Computing," in _Mainframe Experimentalism_
-* David Joselit, _Feedback: Television Against Democracy_
+* David Joselit, _Feedback: Television against Democracy_
 * Gene Youngblood, the balance of _Expanded Cinema_
 
-#### No class the week of Jan. 17: Reading week.
+#### No class the week of Feb. 17: Reading week.
 
 #### Week 7, Feb. 24 & 26: The Invention of the User
 ##### Monday: Let's learn to code!
@@ -186,12 +186,14 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Damon Young, _Making Sex Public_, especially "Sex in Public: Through the Window from _Psycho_ to _Shortbus_"
 * Eve Sedgwick and Adam Frank, "Shame in the Cybernetic Fold"
 * Paul Preciado, _Testo Junkie_
+* Justin Remes, "Serious Immobilities: Andy Warhol, Erik Satie, and the Furniture Film," in _Motion(less) Pictures_
+* Scott Richmond, "Vulgar Boredom, or What Andy Warhol Can Teach Us about _Candy Crush_"
 
 #### Week 9, Mar. 9 & 11: Cinema, the Desiring System
 ##### Monday: The New York queer underground
 * Barbara Rubin, _Christmas on Earth_
 ##### Wednesday:
-* Ara Osterweil, "Saint Barbara," from _Flesh Cinema_
+* Ara Osterweil, "Saint Barbara," in _Flesh Cinema_
 * Lydia Liu, "The Cybernetic Unconscious"
 * Jacques Lacan, the "Mirror Stage" essay
 * Jacques Lacan, selections TBD from Seminar II
@@ -213,7 +215,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Scott Richmond, ch. 6, "Aesthetics Beyond the Phenomenal," from _Cinema's Bodily Illusions_
 * Gilbert Simondon, "The Genesis of the Individual," and/or "The Position of the Problem of Ontogenesis" (TBD, these are two very different translations of the same piece)
 * Bernard Stiegler, selections TBD from _Technics and Time, vol. 1: The Fault of Epimetheus_ <!-- make these selections -->
-* Zabet Patterson, "From the Gun Controller to the Mandala: The Cybernetic Cinema of John and James Whitney"
+* Zabet Patterson, "From the Gun Controller to the Mandala: The Cybernetic Cinema of John and James Whitney," in _Mainframe Experimentalism_
 ##### Recommended:
 * Mark B.N. Hansen, "System-Environment Hybrids," from _Emergence and Embodiment_
 * Grant Taylor, "The Soulless Usurper: Reception and Criticism of Early Computer Art," in _Mainframe Experimentalism_
