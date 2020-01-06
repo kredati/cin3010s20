@@ -34,10 +34,11 @@ Generosity is a patient, trusting, giving, and forgiving posture; it is radical 
 Questions are genuine when they express sincere curiosity, unknowing, uncertainty, or desire. For intellectual work to matter—to its authors, to its readers—it must be motivated by questions that are sincerely posed. We agree to:
 * Continually motivate seminar discussion through the asking of questions and substantial inquiry.
 * Ask questions that are genuine, especially when they seem stupid, or are inarticulate.
+* Speak in class with as little fear of failure as we can muster; the point of engaging in discussion is not to get things right, but to learn, together.
 * Avoid speaking in ways that are devised to demonstrate expertise or virtuosity.
 
 ### Rigorous inquiry
-Genuine questions are not themselves sufficeient to good intellectual work. Those questions must be met with discipline: stuck with for long enough to really open; addressed methodically; answers sought outside oneself, in the lessons of our texts, objects, and colleagues. It is through practices of rigorous—but always generous—inquiry that we learn such discipline. We agree to:
+Genuine questions are not themselves sufficient to good intellectual work. Those questions must be met with discipline: stuck with for long enough to really open; addressed methodically; answers sought outside oneself, in the lessons of our texts, objects, and colleagues. It is through practices of rigorous—but always generous—inquiry that we learn such discipline. We agree to:
 * Ground our discussion in the practice of close reading, staying close to the texts (primary & secondary) at hand.
 * Keep our contributions to the seminar as focused as possible on the problems and questions that arise from such close reading.
 * Share disagreements and difficulties when they arise.
@@ -57,9 +58,9 @@ The principle of openness is a different, related iteration of generosity. It af
 
 ### Good citizenship
 The principle of good citizenship means behaving in ways that allow others to learn well. We agree to:
-* Be on time to seminar, which begins at 3:10pm.
+* Be on time to seminar, which begins at 6:10pm.
 * Stay the whole duration of the seminar—or, if we must leave, we agree to do so with as little disruption as possible.
-* Leave the seminar room for bio-breaks in ways that are unobtrusive.
+* Leave the seminar room for bio-breaks in ways that are unobtrusive. (Asking for permission to leave is obtrusive.)
 * Moderate our participation in the seminar, ensuring that a small cadre of students does not dominate discussion. We note that this responsibility cuts both ways. For those of us who are dilatory, we agree not to take up too much space in the seminar. For those of us who are laconic, we agree not to leave others to do the work of sustaining discussion.
 
 ### Responsible teaching
@@ -73,7 +74,7 @@ The classroom is not a symmetrical institution. Scott agrees to embody authority
 
 ### Responsible learning
 Students must take on responsibility for the practices of learning. We agree to:
-* Take responsibility for their learning, understanding that the learning that can take place in this seminar is organized by their practices of inquiry.
+* Take responsibility for our learning, understanding that the learning that can take place in this seminar is organized by their practices of inquiry.
 * Take the initiative to address and, if posssible, to remedy any difficulties with the course material as they arise.
 * Share concerns about, and difficulties with, pedagogical practices with Scott and other students as they arise.
 * Perform course obligations in a timely manner, or communicate regarding delays or other snafus in a proactive and timely manner.
