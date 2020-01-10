@@ -189,23 +189,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Justin Remes, "Serious Immobilities: Andy Warhol, Erik Satie, and the Furniture Film," in _Motion(less) Pictures_
 * Scott Richmond, "Vulgar Boredom, or What Andy Warhol Can Teach Us about _Candy Crush_"
 
-#### Week 9, Mar. 9 & 11: Cinema, the Desiring System
-##### Monday: The New York queer underground
-* Barbara Rubin, _Christmas on Earth_
-##### Wednesday:
-* Ara Osterweil, "Saint Barbara," in _Flesh Cinema_
-* Lydia Liu, "The Cybernetic Unconscious"
-* Jacques Lacan, the "Mirror Stage" essay
-* Jacques Lacan, selections TBD from Seminar II
-* Christian Metz, chs. 3–5 from _The Imaginary Signifier_
-##### Recommended:
-* Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
-* Branden Joseph, ch. 5, "Primitives and Flaming Creatures," from _Beyond the Dream Syndicate_
-* Lydia Liu, _The Freudian Robot_
-* Bernard Dionysius Geoghan, "From Information Theory to French Theory"
-* Friedrich Kittler, "The World of the Symbolic, the World of the Machine"
-
-#### Week 10, Mar. 16 & 18: Against Experience
+#### Week 9, Mar. 9 & 11: Against Experience
 ##### Monday: Let's hallucinate (unless we are prone to seizures)
 * Tony Conrad, _The Flicker_ (NB: subject to availability from Canyon; this week may shift.)
 * Lillian Schwartz, selected early computer animation films
@@ -220,6 +204,22 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Mark B.N. Hansen, "System-Environment Hybrids," from _Emergence and Embodiment_
 * Grant Taylor, "The Soulless Usurper: Reception and Criticism of Early Computer Art," in _Mainframe Experimentalism_
 * Susan Buck-Morss, "Aesthetics and Anaesthetics: Walter Benjamin's Artwork Essay Reconsidered"
+
+#### Week 10, Mar. 16 & 18: Cinema, the Desiring System
+##### Monday: The New York queer underground
+* Barbara Rubin, _Christmas on Earth_
+##### Wednesday:
+* Ara Osterweil, "Saint Barbara," in _Flesh Cinema_
+* Lydia Liu, "The Cybernetic Unconscious"
+* Jacques Lacan, the "Mirror Stage" essay
+* Jacques Lacan, selections TBD from Seminar II
+* Christian Metz, chs. 3–5 from _The Imaginary Signifier_
+##### Recommended:
+* Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
+* Branden Joseph, ch. 5, "Primitives and Flaming Creatures," from _Beyond the Dream Syndicate_
+* Lydia Liu, _The Freudian Robot_
+* Bernard Dionysius Geoghan, "From Information Theory to French Theory"
+* Friedrich Kittler, "The World of the Symbolic, the World of the Machine"
 
 #### Week 11, Mar. 23 & 25: The Ends of Liberalism
 ##### Monday: Grids and blobs
