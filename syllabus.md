@@ -83,7 +83,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Monday: Systems work 
 * Hans Haacke
 * Sol LeWitt
-##### Wednesday:
+##### Wednesday (Guide: Mary?):
 * Norbert Wiener, introduction to _Cybernetics_
 * Wiener, Chs. 1, 4, 10, 12 from _The Human Use of Human Beings_, 1st edition
 * Ronald Kline, introduction and Ch. 3, "The Cybernetics Craze," from _The Cybernetics Moment_
@@ -95,7 +95,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 3, Jan. 20 & 22: The Politics of Systems
 ##### Monday: On process
 * Research & writing seminar, content TBD.
-##### Wednesday:
+##### Wednesday (Guide: Julian):
 * Philip Mirowski, chs. 1 & 2 from _Machine Dreams_
 * Gilles Deleuze, "Postscript on the Societies of Control"
 * Seb Franklin, Introduction and chs. 1 & 2 from _Control: Digitality as Cultural Logic_
@@ -109,7 +109,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Monday: A listening party
 * John Cage (TBD)
 * Alvin Lucier (_North American Time Capsule 1967_ and _I Am Sitting in a Room_)
-##### Wednesday:
+##### Wednesday (Guide: Matt):
 * Branden Joseph, chs. 1 & 2 from _Beyond the Dream Syndicate_
 * Fred Turner, ch. 4, "The New Landscape of Sound," from _The Democractic Surround_
 * John Cage, selections TBD from _Silence_ <!-- make these selections: "Experimental Music," at least -->
@@ -123,7 +123,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 5, Feb. 3 & 5: Democracy and Design
 ##### Monday: The happiness archive
 * Films (e.g. _Powers of Ten_, both versions) and other materials (e.g. _A Computer Perspective_) by Charles and Ray Eames
-##### Wednesday:
+##### Wednesday (Guide: Bree?):
 * Justus Nieland, introduction and ch. TBD from _Happiness by Design_
 * John Harwood, ch. 4, "Naturalizing the Computer," from _The Interface_
 * Kyle Stine, "Other Ends of Cinema"
@@ -138,7 +138,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Works by Nam June Paik, including _TV Buddha_ and _Participation TV_
 * Folio on _Cybernetic Serendipity_
 * Marshall McLuhan and Quentin Fiore, _The Medium is the Massage_
-##### Wednesday:
+##### Wednesday (Guide: Talia):
 * Marshall McLuhan, selections TBD from _Understanding Media_ <!-- Part 1, and some selections from part 2, including "Number" -->
 * Gene Youngblood, selections TBD from _Expanded Cinema_ <!-- make these selections -->
 * Nam June Paik, on McLuhan and Wiener
@@ -155,7 +155,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 7, Feb. 24 & 26: The Invention of the User
 ##### Monday: Let's learn to code!
 * Encounter with Seymour Papert's Logo programming environment (or its equivalent in Javascript)
-##### Wednesday:
+##### Wednesday (Guide: Mynt):
 * Vannevar Bush, "As We May Think"
 * J.C.R. Licklider, "Man-Computer Symbiosis"
 * Seymour Papert, from _Mindstorms_, as exerpted in _The New Media Reader_
@@ -174,7 +174,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 8, Mar. 2 & 4: Andy Warhol, Cybernetician
 ##### Monday: A Very Warhol Encounter
 * Andy Warhol, _Kiss_, and a folio of screen prints
-##### Wednesday:
+##### Wednesday (Guide: Prisca):
 * Andy Warhol, "What is Pop Art?"
 * Jonathan Flatley, "Art Machine," in _Like Andy Warhol_
 * Juan Suarez, "Warhol's 1960s Films, Amphetamine, and Queer Materiality"
@@ -194,7 +194,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Tony Conrad, _The Flicker_ (NB: subject to availability from Canyon; this week may shift.)
 * Lillian Schwartz, selected early computer animation films
 * John Whitney, selected early computer animation films
-##### Wednesday:
+##### Wednesday (Guide: Srijita):
 * Branden Joseph, ch. 6, "_Flicker_," from _Beyond the Dream Syndicate_
 * Scott Richmond, ch. 6, "Aesthetics Beyond the Phenomenal," from _Cinema's Bodily Illusions_
 * Gilbert Simondon, "The Genesis of the Individual," and/or "The Position of the Problem of Ontogenesis" (TBD, these are two very different translations of the same piece)
@@ -208,7 +208,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 10, Mar. 16 & 18: Cinema, the Desiring System
 ##### Monday: The New York queer underground
 * Barbara Rubin, _Christmas on Earth_
-##### Wednesday:
+##### Wednesday (Guide: Noah):
 * Ara Osterweil, "Saint Barbara," in _Flesh Cinema_
 * Lydia Liu, "The Cybernetic Unconscious"
 * Jacques Lacan, the "Mirror Stage" essay
@@ -225,7 +225,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Monday: Grids and blobs
 * Gridworks by Charles Gaines
 * _Black Gooey Universe_ by American Artist
-##### Wednesday:
+##### Wednesday (no guide):
 * A visit from Kris Cohen!
 * Cohen on Charles Gaines, and on Leo Steinberg (unpublished manuscripts)
 * Cohen interview with American Artist in _Open-Set_
@@ -239,7 +239,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 #### Week 12, Mar. 30 & Apr. 1: The Cybernetic Body
 ##### Monday: Bodies & machines
 * Bruce Nauman, _Lip Synch_ <!-- and other examples from Hansen -->
-##### Wednesday:
+##### Wednesday (Guide: Daniele?):
 * Maurice Merleau-Ponty, Preface and "The Synthesis of One's Own Body," in _Phenomenology of Perception_ (NB: If reading from your own books, please use the Landes, not the Smith, translation.)
 * Maurice Merleau-Ponty, "The Intertwining—The Chiasm," from _The Visible and the Invisible_
 * Mark B.N. Hansen, Part I, "The Essential Technicity of the Flesh," from _Bodies in Code_
