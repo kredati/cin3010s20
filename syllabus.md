@@ -124,12 +124,13 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 ##### Monday: The happiness archive
 * Films (e.g. _Powers of Ten_, both versions) and other materials (e.g. _A Computer Perspective_) by Charles and Ray Eames
 ##### Wednesday (Guide: Bree?):
-* Justus Nieland, introduction and ch. TBD from _Happiness by Design_
+* Justus Nieland, introduction from _Happiness by Design_
+* Nieland, “Midcentury Futurisms”
 * John Harwood, ch. 4, "Naturalizing the Computer," from _The Interface_
-* Kyle Stine, "Other Ends of Cinema"
-* Orit Halpern, "Governing," from _Beautiful Data_
+* Kyle Stine, “Other Ends of Cinema”
+* Orit Halpern, “Governing,” from _Beautiful Data_
 ##### Recommended:
-* Daniel Cardoso Llach, chs. 3 & 4 from _Builders of the Vision_ <!-- check this -->
+* Daniel Cardoso Llach, chs. 3 & 4 from _Builders of the Vision_
 * Fred Turner, ch. 7, "Therapeutic Nationalism," from _The Democratic Surround_
 * Eric Schuldenfrei, _The Films of Charles and Ray Eames_
 
