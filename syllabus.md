@@ -231,7 +231,7 @@ I have, in each week, compiled extensive "recommended" readings. These recommend
 * Cohen on Charles Gaines, and on Leo Steinberg (unpublished manuscripts)
 * Cohen interview with American Artist in _Open-Set_
 * Fred Moten, "The Blur and Breathe Books," from _Black and Blur_
-* Donna Haraway, "A Cyborg Manifesto"
+* **Newly recommended, no longer required:** Donna Haraway, "A Cyborg Manifesto"
 ##### Recommended:
 * Tara McPherson, "U.S. Operating Systems at Mid-Century"
 * Aria Dean, "Notes on Blaccelerationism"
